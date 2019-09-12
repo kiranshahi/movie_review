@@ -32,7 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'devise', '~> 3.5', '>= 3.5.6'
+gem 'devise', '~> 4.7'
 
 gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 
